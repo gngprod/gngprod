@@ -3,6 +3,6 @@
 
 ### 🛠🧰 Languages and Tools:
 ![Scala](https://img.shields.io/badge/-Scala-C80000?style=for-the-badge&logo=Scala)
-![Python](https://img.shields.io/badge/-Scala-09C200?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Scala-DDF300?style=for-the-badge&logo=Python)
 
 📫 You can reach me at [gzirishviling@gmail.com]
