@@ -9,7 +9,7 @@
 ![AirFlow](https://img.shields.io/badge/-AirFlow-00CCFE?style=for-the-badge&logo=AirFlow)
 ![Kafka](https://img.shields.io/badge/-Kafka-DCDCDC?style=for-the-badge&logo=Kafka)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=gngprod&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gngprod)
 
 ###### tgm: @Killo_gz email: gzirishviling@gmail.com
 
