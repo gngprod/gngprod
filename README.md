@@ -4,5 +4,6 @@
 ### 🛠🧰 Languages and Tools:
 ![Scala](https://img.shields.io/badge/-Scala-C80000?style=for-the-badge&logo=Scala)
 ![Python](https://img.shields.io/badge/-Python-DDF300?style=for-the-badge&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-DDF300?style=for-the-badge&logo=SQL)
 
 📫 You can reach me at [gzirishviling@gmail.com]
