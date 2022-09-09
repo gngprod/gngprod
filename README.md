@@ -8,6 +8,6 @@
 
 ![Spark](https://img.shields.io/badge/-Spark-FE9600?style=for-the-badge&logo=Spark)
 ![AirFlow](https://img.shields.io/badge/-AirFlow-00CCFE?style=for-the-badge&logo=AirFlow)
-![Kafka](https://img.shields.io/badge/-Kafka-FFFFFF?style=for-the-badge&logo=Kafka)
+![Kafka](https://img.shields.io/badge/-Kafka-DCDCDC?style=for-the-badge&logo=Kafka)
 
 📫 You can reach me at [gzirishviling@gmail.com]
