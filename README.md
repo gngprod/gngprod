@@ -11,4 +11,5 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-DCDCDC?style=for-the-badge&logo=Kafka)
 
 📫 email: gzirishviling@gmail.com
+
       tg: @Killo_gz
