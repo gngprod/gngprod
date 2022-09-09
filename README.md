@@ -10,5 +10,4 @@
 ![AirFlow](https://img.shields.io/badge/-AirFlow-00CCFE?style=for-the-badge&logo=AirFlow)
 ![Kafka](https://img.shields.io/badge/-Kafka-DCDCDC?style=for-the-badge&logo=Kafka)
 
-###### email: gzirishviling@gmail.com
-#####   tgm: @Killo_gz
+###### email: gzirishviling@gmail.com    tgm: @Killo_gz
